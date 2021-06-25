@@ -1,0 +1,5 @@
+Printing Armstrong 
+153
+370
+371
+407
