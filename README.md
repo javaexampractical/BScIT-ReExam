@@ -9,7 +9,7 @@ Q1. Create two files one.txt and two.txt. Write 100 to 550 intgeres in one.txt.
                    .
                    .
                    150
-    Read content from one.txt. Check whether it is armstriing number or not.
+    Read content from one.txt. Check whether it is armstrong number or not.
     If it is armstrong number then write into two.txt.
  
 Q2. Create  an abstract class called Calculator with the following abstract methods:
